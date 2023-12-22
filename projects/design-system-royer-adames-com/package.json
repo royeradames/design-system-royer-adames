@@ -1,6 +1,6 @@
 {
-  "name": "design-system",
-  "version": "0.0.1",
+  "name": "design-system-royer-adames-com",
+  "version": "0.0.2",
   "peerDependencies": {
     "@angular/common": "^15.1.0",
     "@angular/core": "^15.1.0"
